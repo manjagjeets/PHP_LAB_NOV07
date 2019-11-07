@@ -1,0 +1,10 @@
+<?php
+  
+$numbers = array(12,45,22,34,65);
+$animal=["cat","dog","tiger","bear"];
+
+print_r($numbers);
+
+echo $numbers[3];
+
+?>
